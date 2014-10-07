@@ -1,6 +1,6 @@
-# NHML - Non-Military Human License
+# NHML - Non-Military Humane License
 
-## NMHL (Non-Military Humane License) Restriction
+## NHML Restriction
 The license mentioned below (hereafter main license) is further
 restricted in the following way.
 
