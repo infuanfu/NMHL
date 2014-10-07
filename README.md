@@ -1,6 +1,6 @@
 # NHML - Non-Military Humane License
 
-## NHML Restriction
+## NHML Restriction (English)
 The license mentioned below (hereafter main license) is further
 restricted in the following way.
 
@@ -15,6 +15,18 @@ expression of free speech.
 Under no circumstances, shall the Subject be used in systems of
 any kind, whose purpose is to assist in cases related to death
 penalty.
+
+## NHML Einschränkung (Deutsch)
+Die unten erwähnte Lizenz (hiernach Hauptlizenz genannt) wird weiterhin
+wie folgt eingeschränkt.
+
+"Der Gegenstand der Hauptlizenz und sämtlicher abgeleiteten Werke"
+(hiernach zusammenfassend: Gegenstand) ist strikt auf die zivile
+Nutzung beschränkt. Der Gegenstand darf nicht direkt oder indirekt
+eingesetzt werden zum Herstellen oder Betreiben von Waffen,
+militärischen Einrichtungen oder Geräten, Überwachungstechnologie,
+Mittel zur Unterdrückung von Menschen, oder Einschränkung der
+Meinungsfreiheit.
 
 ## How to Use This Restriction
 Prepend the above restriction to any license text you want to use.
