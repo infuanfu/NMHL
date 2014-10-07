@@ -1,8 +1,8 @@
 # NHML - Non-Military Humane License
 
 ## NHML Restriction (English)
-The license mentioned below (hereafter main license) is further
-restricted in the following way.
+The license mentioned below (hereafter main license) is
+further restricted in the following way.
 
 "The subject of the main license and any derivative of
 said subject" (hereafter collectively: Subject), shall be
@@ -12,13 +12,13 @@ military facilities or equipment, surveillance of human
 beings, means to suppress the freedom of human beings or
 means to hinder the expression of free speech.
 
-Under no circumstances, shall the Subject be used in systems of
-any kind, whose purpose is to assist in cases related to death
-penalty.
+Under no circumstances, shall the Subject be used in
+systems of any kind, whose purpose is to assist in cases
+related to death penalty.
 
 ## NHML Einschränkung (Deutsch)
-Die unten erwähnte Lizenz (hiernach Hauptlizenz genannt) wird weiterhin
-wie folgt eingeschränkt.
+Die unten erwähnte Lizenz (hiernach Hauptlizenz genannt)
+wird weiterhin wie folgt eingeschränkt.
 
 "Der Gegenstand der Hauptlizenz und sämtlicher abgeleiteten
 Werke" (hiernach zusammenfassend: Gegenstand) ist strikt
@@ -29,5 +29,5 @@ Geräten, Überwachungstechnologie, Mittel zur Unterdrückung
 von Menschen, oder Einschränkung der Meinungsfreiheit.
 
 ## How to Use This Restriction
-Prepend the above restriction to any license text you want to use.
-We recommend free and open source licenses.
+Prepend the above restriction to any license text you want
+to use. We recommend free and open source licenses.
