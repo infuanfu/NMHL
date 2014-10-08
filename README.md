@@ -1,6 +1,6 @@
-# NHML - Non-Military Humane License
+# NMHL - Non-Military Humane License
 
-## NHML Restriction (English)
+## NMHL Restriction (English)
 The license mentioned below (hereafter main license) is
 further restricted in the following way.
 
@@ -16,7 +16,7 @@ Under no circumstances, shall the Subject be used in
 systems of any kind, whose purpose is to assist in cases
 related to death penalty.
 
-## NHML Einschränkung (Deutsch)
+## NMHL Einschränkung (Deutsch)
 Die unten erwähnte Lizenz (hiernach Hauptlizenz genannt)
 wird weiterhin wie folgt eingeschränkt.
 
