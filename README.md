@@ -23,10 +23,11 @@ wird weiterhin wie folgt eingeschränkt.
 "Der Gegenstand der Hauptlizenz und sämtlicher abgeleiteten
 Werke" (hiernach zusammenfassend: Gegenstand) ist strikt
 auf die zivile Nutzung beschränkt. Der Gegenstand darf
-nicht direkt oder indirekt eingesetzt werden zum Herstellen
-oder Betreiben von Waffen, militärischen Einrichtungen oder
-Geräten, Überwachungstechnologie, Mittel zur Unterdrückung
-von Menschen, oder Einschränkung der Meinungsfreiheit.
+nicht direkt oder indirekt  zum Herstellen oder Betreiben
+von Waffen, militärischen Einrichtungen oder Geräten,
+Überwachungstechnologie, Mittel zur Unterdrückung von
+Menschen, oder Einschränkung der Meinungsfreiheit eingesetzt
+werden.
 
 ## How to Use This Restriction
 Prepend the above restriction to any license text you want
