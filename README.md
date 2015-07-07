@@ -29,6 +29,10 @@ von Waffen, militärischen Einrichtungen oder Geräten,
 Menschen, oder Einschränkung der Meinungsfreiheit eingesetzt
 werden.
 
+Auf gar keinen Fall darf der Gegenstand in Systemen 
+jeglicher Art eingesetzt werden, die der Durchführung der
+Todesstrafe dienen.
+
 ## How to Use This Restriction
 Prepend the above restriction to any license text you want
 to use. We recommend free and open source licenses.
